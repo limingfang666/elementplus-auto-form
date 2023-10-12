@@ -1,0 +1,12 @@
+{
+  "name": "elementplus-auto-form",
+  "version": "1.0.1",
+  "description": "",
+  "main": "elementplus-auto-form.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["elementplus","auto-form"],
+  "author": "limingfang",
+  "license": "ISC"
+}
